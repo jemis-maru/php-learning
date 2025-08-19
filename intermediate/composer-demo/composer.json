@@ -1,0 +1,17 @@
+{
+    "name": "test/demo",
+    "autoload": {
+        "psr-4": {
+            "Test\\Demo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jemis-maru",
+            "email": "jemis.maru@bacancy.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.9"
+    }
+}
